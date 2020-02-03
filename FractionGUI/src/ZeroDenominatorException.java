@@ -1,0 +1,3 @@
+class ZeroDenominatorException extends Exception
+{
+}
